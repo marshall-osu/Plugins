@@ -1,0 +1,20 @@
+main: me.Tanner.SofishticatedFishing.Main
+name: SofishticatedFishing
+author: DeathQuidInc
+version: 69.420
+api-version: 1.15
+depend:
+
+commands:
+  addloot:
+  editloot:
+  deleteloot:
+  viewloot:
+  tournaments:
+  testing:
+  forcetourn:
+  stoptourn:
+  sffish:
+  tournamentstatus:
+  createboss:
+  deleteboss:
