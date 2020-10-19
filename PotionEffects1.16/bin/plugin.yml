@@ -1,0 +1,10 @@
+main: me.Tanner.PotionEffects.Main
+name: PotionEffects
+author: deathkillall1
+version: 1.0
+api-version: 1.15
+
+commands:
+  potioneffect:
+    description: use /potioneffect [effect] [strength] to add the specified potion effect to the player calling the command
+    usage: /potioneffect [effect] [strength]s

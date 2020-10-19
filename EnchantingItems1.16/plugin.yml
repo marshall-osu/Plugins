@@ -1,0 +1,9 @@
+main: me.Tanner.EnchantingItems.Enchantments
+name: EnchantingItems
+version: 1.0
+author: DeathQuidInc
+api-version: 1.15
+depend: [Lands, WorldGuard, WorldEdit, PvPToggle, CoreProtect, mcMMO]
+
+commands: 
+  enchants: 

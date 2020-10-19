@@ -1,0 +1,9 @@
+main: me.Tanner.CommandsPlus.Main
+name: CommandsPlus
+version: 1.0
+author: Death
+api-version: 1.16
+
+commands: 
+  smelt: 
+  smeltall:

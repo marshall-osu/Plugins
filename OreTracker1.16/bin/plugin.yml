@@ -1,0 +1,12 @@
+main: me.Tanner.OreTracker.Main
+name: OreTracker
+version: 1.0
+author: TannerMarshall
+api-version: 1.15
+
+commands:
+  ot:
+  muteall:
+  clearchat:
+  randomp:
+  ipseen:

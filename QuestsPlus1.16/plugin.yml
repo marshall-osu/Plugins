@@ -1,0 +1,6 @@
+main: me.Tanner.QuestsPlus.Main
+name: QuestsPlus
+version: 1.0
+author: deathkillall1
+api-version: 1.15
+depend: [Quests]
